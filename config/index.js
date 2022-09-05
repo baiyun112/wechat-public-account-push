@@ -18,7 +18,7 @@ export const config = {
    * [
    *  {
    *    // 想要发送的人的名字
-   *    name: "老婆0",
+   *    name: "老婆",
    *    // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
    *    id: "ohxOO6VskYv0Kuf-ywIZVRMpuXhk",
    *    // 你想对他发送的模板消息的模板ID
@@ -34,9 +34,9 @@ export const config = {
   USERS: [
     {
       // 想要发送的人的名字
-      name: "老婆0",
+      name: "老婆",
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: "olwzX5u7KudNHmlT2T-GfESJJRJo",
+      id: "olwzX5qbUU36yhErJ4JuGN622sBw",
       // 你想对他发送的模板消息的模板ID
       useTemplateId: "o29A5iQuttpLCttmE_yzocVyGsqY0Fet2mzlkXKvurQ",
       // 所在省份
@@ -47,7 +47,7 @@ export const config = {
       openUrl: "https://wangxinleo.cn"
     }, 
     {
-      name: "老婆1", 
+      name: "老婆", 
       id: "olwzX5t5OHLuNYw__2s69JSq8aMU",
       useTemplateId: "o29A5iQuttpLCttmE_yzocVyGsqY0Fet2mzlkXKvurQ",
       province: "江西",
@@ -55,9 +55,9 @@ export const config = {
       openUrl: "https://wangxinleo.cn"
     }, 
     {
-      name: "老婆2",
-      id: "",
-      useTemplateId: "",
+      name: "老婆",
+      id: "olwzX5u7KudNHmlT2T-GfESJJRJo",
+      useTemplateId: "o29A5iQuttpLCttmE_yzocVyGsqY0Fet2mzlkXKvurQ",
       province: "",
       city: "",
       openUrl: "https://wangxinleo.cn"
