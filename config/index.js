@@ -28,25 +28,28 @@ export const config = {
    *   }, 
    * ]
    */
+  APP_ID: "wx01bb73ec2c240c6c",
+  APP_SECRET: "2f045333de4898ec128aaa9596aa19ac",
+  
   USERS: [
     {
       // 想要发送的人的名字
       name: "老婆0",
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: "ohxOO6VskY2v40Kuf5ywIZVRM3puXhk",
+      id: "olwzX5u7KudNHmlT2T-GfESJJRJo",
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: "Wue80GrtY1nAi5a4tam4FDxZF59WNx9pwcBc06LMpANnu8",
+      useTemplateId: "o29A5iQuttpLCttmE_yzocVyGsqY0Fet2mzlkXKvurQ",
       // 所在省份
-      province: "广东",
+      province: "甘肃",
       // 所在城市
-      city: "肇庆",
+      city: "定西",
       // 他点击详情后跳转的页面,你可以设置成微博的热榜，也可以设置成其他，网址一定要填对；不填对也没关系，随便你，会打不开而已。
       openUrl: "https://wangxinleo.cn"
     }, 
     {
       name: "老婆1", 
-      id: "",
-      useTemplateId: "",
+      id: "olwzX5u7KudNHmlT2T-GfESJJRJo",
+      useTemplateId: "o29A5iQuttpLCttmE_yzocVyGsqY0Fet2mzlkXKvurQ",
       province: "",
       city: "",
       openUrl: "https://wangxinleo.cn"
@@ -54,7 +57,7 @@ export const config = {
     {
       name: "老婆2",
       id: "",
-      useTemplateId: "",
+      useTemplateId: "o29A5iQuttpLCttmE_yzocVyGsqY0Fet2mzlkXKvurQ",
       province: "",
       city: "",
       openUrl: "https://wangxinleo.cn"
@@ -62,7 +65,7 @@ export const config = {
     {
       name: "老婆3", 
       id: "",
-      useTemplateId: "",
+      useTemplateId: "o29A5iQuttpLCttmE_yzocVyGsqY0Fet2mzlkXKvurQ",
       province: "",
       city: "",
       openUrl: "https://wangxinleo.cn"
